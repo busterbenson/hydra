@@ -4,7 +4,7 @@
  <title>Hydra</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-04-01T21:20:50-07:00</updated>
+ <updated>2020-04-01T21:22:42-07:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Monthly Report</title>
-   <link href="http://localhost:4000/2020/04/01/report"/>
-   <updated>2020-04-01T00:00:00-07:00</updated>
-   <id>http://localhost:4000/2020/04/01/report</id>
+   <link href="http://localhost:4000/2020/03/31/report"/>
+   <updated>2020-03-31T17:00:00-07:00</updated>
+   <id>http://localhost:4000/2020/03/31/report</id>
    <content type="html">&lt;p&gt;Welcome.&lt;/p&gt;
 </content>
  </entry>

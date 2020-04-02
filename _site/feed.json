@@ -13,19 +13,19 @@
 "items": [
     
         {
-            "id": "http://localhost:4000/2020/04/01/report",
+            "id": "http://localhost:4000/2020/03/31/report",
             "title": "Monthly Report",
             "summary": null,
             "content_text": "Welcome.",
             "content_html": "<p>Welcome.</p>",
-            "url": "http://localhost:4000/2020/04/01/report",
+            "url": "http://localhost:4000/2020/03/31/report",
             
             
             
             "tags": ["2020","report"],
             
-            "date_published": "2020-04-01T00:00:00-07:00",
-            "date_modified": "2020-04-01T00:00:00-07:00",
+            "date_published": "2020-03-31T17:00:00-07:00",
+            "date_modified": "2020-03-31T17:00:00-07:00",
             
                 "author": 
                 "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
