@@ -1,62 +1,60 @@
-site: Hydra
-url: #yoururl
+---
 title: Hydra
-description: This is a personal mythology that helps us grow even when things are chaotic.
-twitter:
-  username: #yourusername
-  card: summary
-  creator: #yourusername
-author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
-  email: #youremail
-  url: #yoururl
-permalink: pretty
-
-baseurl: ""
-
-highlighter: none
-
-exclude:
-  - .jekyll-cache
-  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap  
-
+timezone: UTC
 collections:
   pages:
+    title: Pages
     output: true
-    permalink: /:name
+    permalink: "/:name"
   posts:
+    title: Posts
     output: true
-    permalink: /:year/:month/:day/:slug
-  
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+- scope:
+    path: ''
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+site: Hydra
+url: 
+description: This is a personal mythology that helps us grow even when things are
+  chaotic.
+twitter:
+  username: 
+  card: summary
+  creator: 
+author:
+  twitter: 
+  name: 
+  avatar: 
+  email: 
+  url: 
+permalink: pretty
+baseurl: ''
+highlighter: none
+exclude:
+- ".jekyll-cache"
+compress_html:
+  clippings: all
+  comments:
+  - "<!-- "
+  - " -->"
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap

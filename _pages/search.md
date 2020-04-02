@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Search
+layout: page
 ---
 
 <style>
