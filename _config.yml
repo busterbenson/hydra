@@ -36,6 +36,9 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
+  tags:
+    output: true
+    permalink: /tag/:path/
 defaults:
   -
     scope:
