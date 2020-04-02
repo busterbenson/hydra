@@ -1,5 +1,5 @@
 ---
-title: My Beliefs
+title: My Codex
 layout: page
 ---
 

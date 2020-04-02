@@ -1,11 +1,7 @@
 links:
 - title: Hydra
   url: /hydra/
-- title: About
-  url: /hydra/about
-- title: My Beliefs
+- title: My Codex
   url: /hydra/beliefs
-- title: My Life 
-  url: /hydra/life
-- title: Search
-  url: /hydra/search
+- title: What Is This?
+  url: /hydra/about
