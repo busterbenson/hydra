@@ -1,48 +1,19 @@
----
-title: Hydra
-timezone: UTC
-collections:
-  pages:
-    title: Pages
-    output: true
-    permalink: "/:name"
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
 site: Hydra
 url: https://busterbenson.github.io/hydra
 description: This is a personal mythology that helps us grow even when things are
   chaotic.
 twitter: 
-  username: @buster
+  username: '@buster'
   card: summary
   creator: 
 author:
-  twitter: @buster
+  twitter: '@buster'
   name: 
   avatar: 
   email: 
   url: https://busterbenson.com
 permalink: pretty
-baseurl: 'https://busterbenson.github.io/hydra'
+baseurl: '/hydra'
 highlighter: none
 exclude:
 - ".jekyll-cache"
@@ -58,3 +29,31 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+defaults:
+  -
+    scope:
+      path: "/hydra"
+      type: "default"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "/pages"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "/posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+

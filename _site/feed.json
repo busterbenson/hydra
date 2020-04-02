@@ -1,24 +1,24 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hydra",
-    "home_page_url": "http://localhost:4000/",
-    "feed_url": "http://localhost:4000/feed.json",
+    "title": "",
+    "home_page_url": "http://localhost:4000/hydra/",
+    "feed_url": "http://localhost:4000/hydra/feed.json",
     "description": "This is a personal mythology that helps us grow even when things are chaotic.",
-    "icon": "http://localhost:4000/apple-touch-icon.png",
-    "favicon": "http://localhost:4000/favicon.ico",
+    "icon": "http://localhost:4000/hydra/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/hydra/favicon.ico",
     "expired": false,
     
-    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    "author": "{"twitter"=>"@buster", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>"https://busterbenson.com"}",
     
 "items": [
     
         {
-            "id": "http://localhost:4000/2020/03/31/report",
+            "id": "http://localhost:4000/hydra/2020/03/31/report",
             "title": "Monthly Report",
             "summary": null,
             "content_text": "Welcome.",
             "content_html": "<p>Welcome.</p>",
-            "url": "http://localhost:4000/2020/03/31/report",
+            "url": "http://localhost:4000/hydra/2020/03/31/report",
             
             
             
@@ -28,7 +28,7 @@
             "date_modified": "2020-03-31T17:00:00-07:00",
             
                 "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                "{"twitter"=>"@buster", "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>"https://busterbenson.com"}"
                 
             
         }
