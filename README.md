@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+# Live Like a Hydra, Second Edition
+This is a personal mythology that helps us grow even when things are chaotic.
+
+## RUNNING LOCALLY
+1. Download the repo
+2. `cd hydra`
+3. `bundle install`
+4. `bundle exec jekyll serve`
+
+## NOTES ABOUT GITHUB PAGES
 
 You can use the [editor on GitHub](https://github.com/busterbenson/hydra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+>>>>>>> master
