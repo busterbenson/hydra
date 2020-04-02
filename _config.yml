@@ -2,21 +2,23 @@ site: Hydra
 url: https://busterbenson.github.io/hydra
 description: This is a personal mythology that helps us grow even when things are
   chaotic.
+author:
+  twitter: '@buster'
+  name: Buster Benson
+  avatar: 
+  url: https://busterbenson.com
+  twitter: '@buster'
 twitter: 
   username: '@buster'
   card: summary
   creator: 
-author:
-  twitter: '@buster'
-  name: 
-  avatar: 
-  email: 
-  url: https://busterbenson.com
 permalink: pretty
 baseurl: '/hydra'
 highlighter: none
 exclude:
 - ".jekyll-cache"
+- Gemfile
+- Gemfile.lock
 compress_html:
   clippings: all
   comments:
@@ -43,7 +45,6 @@ defaults:
   -
     scope:
       path: "/hydra"
-      type: "default"
     values:
       layout: "default"
   -
