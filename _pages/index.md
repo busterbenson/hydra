@@ -78,22 +78,3 @@ And finally, there's the [thinking fractal](https://medium.com/@buster/the-marve
 
 Each of these systems has a public, a frontier, and a sense of home. Each of these systems can also be in one of the 8 modes that function as mechanisms to identify what is relevant in the moment. 
 
-### 144 ways of the hydra
-
-Here's a bit more about each of the modes, in light of the ways to see the world:
-
-#### Cat Mode: back-to-basics recovery
-
-#### Novelty Mode: seek novelty, exploration, and stimulus
-
-#### Make It Happen Mode: immerse yourself in mindless work
-
-#### Self Mode: self-reflect and identify beliefs and values
-
-#### Truth-Seeking Mode: find the source of what's real
-
-#### Creation Mode: make something important
-
-#### Relating Mode: cultivate quality time with others
-
-#### Hydra Mode: nebulous connection yourself, the world, and others
