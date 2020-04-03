@@ -1,7 +1,13 @@
 links:
-- title: Live Like A Hydra
+- title: 🐲
   url: /hydra/
-- title: My Codex
+- title: One Word
+  url: /hydra/word
+- title: Codex Vitae
   url: /hydra/codex
+- title: Life in Weeks
+  url: /hydra/life
+- title: Updates
+  url: /hydra/updates
 - title: About
   url: /hydra/about

@@ -6,6 +6,13 @@
 	padding:0;
 }
 
+ol, :after, :before {
+	padding: 5px 20px;
+}
+ul, :after, :before {
+	padding: 5px 20px;
+}
+
 body {
 	font-family: system-ui, sans-serif;
 	-webkit-font-smoothing: antialiased;
@@ -16,7 +23,7 @@ body {
 }
 
 nav ul {
-    border-right: 1px solid #edf2f7;
+    //border-right: 1px solid #edf2f7;
 }
 
 a {
@@ -68,9 +75,10 @@ img {
 }
 
 hr {
-	background: #000;
-    height: 1px;
-    border: 0;
+	background: #eee;
+  height: 1px;
+  border: 0;
+  margin: 1em 0;
 }
 
 header {
@@ -103,8 +111,12 @@ section .posts {
 
 blockquote {
 	font-style: italic;
-    border-left: 5px solid #ececec;
-    padding-left: 1rem;
+  border-left: 5px solid #fbf24a; // #ececec
+  padding-left: 1rem;
+}
+.post blockquote p {
+  margin-top: 0px;
+  margin-bottom: 0px;	
 }
 
 h1,h2,h3,h4,h5 {

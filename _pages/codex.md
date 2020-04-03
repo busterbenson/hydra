@@ -1,6 +1,8 @@
 ---
-title: My Codex
+title: Codex Vitae
+description: Everything I think I know.
 layout: page
 ---
 
-This is a personal mythology that helps us grow even when things are chaotic.
+### Everything I think I know
+
