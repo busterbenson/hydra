@@ -4,7 +4,7 @@ layout: page
 path: /
 ---
 
-Living like a hydra is a weird, unscientific, but hopefully deeply relevant and useful way of living life. It can be thought of as a footnote to this (most likely misattributed) quote from Viktor Frankl:
+Living like a hydra is a weird but hopefully useful way of approaching our lives in the spirit of growth and meaningfulness. The seed for it comes from this (most likely misattributed) quote from Viktor Frankl:
 
 > Between stimulus and response is a space.
 > 
@@ -12,36 +12,38 @@ Living like a hydra is a weird, unscientific, but hopefully deeply relevant and 
 > 
 > In our response lies our growth and our freedom.
 
-To "live like a hydra" is to practice being wholehearted and "in flow" in that space between stimulus and response, and to do so within whatever constraints and at whatever energy level we are with in the moment. It is about slowly accepting and then learning to love the wily chaos monkey's unending lobbing of chaos bananas that knock us off our feet at random frequencies, and ultimately finding ways to grow wiser, more courageous, and more loving as the chaos monkey's lifelong dance partner. I wrote [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89?source=friends_link&sk=9aa3e637cb424bfe3a775a47ab740150){:target="blank"} seven years ago and have returned to it frequently enough (chaotic times are here to stay, apparently) to want to update it with an updated set of "modes" or "hydra heads" to wear in the world. 
+To "live like a hydra" is to practice being wholehearted and "in flow" in that little space between stimulus and response. It's about accepting whatever constraints we're working with in the moment -- whether it be attention, time, energy level, access to support, or something else. 
+
+I wrote [Live Like a Hydra](https://medium.com/better-humans/live-like-a-hydra-c02337782a89?source=friends_link&sk=9aa3e637cb424bfe3a775a47ab740150){:target="blank"} seven years ago and have returned to it frequently enough (chaotic times are here to stay, apparently) to want to update it with an updated set of "modes" or "hydra heads" to wear in the world as we continue to run into the Chaos Monkey's antics. The Chaos Monkey represents the universe's irreducible element of rascality that lobs an unending supply of unwelcome bananas onto our path, tripping us up. Instead of battling the Chaos Monkey (which is futile), living like a hydra is about slowly learning to love the wily Chaos Monkey's rascality. Each time we find ourselves in the space between stimulus and response, processing something that feels off about the world or about ourselves, we can use that dissonance as an opportunity to grow wiser, more courageous, and more loving as the chaos monkey's lifelong dance partner.  
 
 ## 3 ways to make contact with reality
 
-When it comes to making sense of our lives and the world we live in, there are three broad dimensions that a meaningful life requires contact with:  
+When it comes to making sense of our lives and the world we live in, there are three broad realms that a meaningful life requires contact with:  
 
-1. **Blue Dimension - Connection to the World:** Connection to the world outside ourselves. When we feel in connection with the frontier of the world, we feel _certainty_ about reality. When we don't feel connected to the world, we feel like everything is _absurd_. 
+1. **Blue Realm - Connection to the World - The Frontier:** Connection to the world outside ourselves. When we feel in connection with the frontier of the world, the edge of what we consider relevant to us, we feel _certainty_ about reality. When we don't feel connected to edge of the world, or lose track of what's real or not real, we wander around feeling everything is _absurd_. 
 	- 🧠 The realm of the head and measurable information.
-	- 🌎 Connection to the World is the realm of pushing further into the unknown universe. 
+	- 🌎 Connection to the World is about extending our map of the known universe, and making more of it feel relevant to us.
 	- 📓 Its tools are science, and data, and log books, and experiments. 
 	- 🐐 In Venkatesh's model, this is the Frontier, also known as Goatspace because you can find goats improbably climbing sheer cliffs at the frontiers. 
 	- 💎 We will also represent it with the color Blue, one of the 3 primary colors.
 
-2. **Red Dimension - Connection to Ourself:** When we feel in connection with our own intuitions and feelings and our heart and home base, we feel like we are _accepted and safe_. When we're don't feel connected to our true selves, we feel extremely _anxious and uncentered_. 
+2. **Red Realm - Connection to Ourself - The Center:** When we feel in connection with our own intuitions and feelings and our heart and home base, we feel like we are _accepted and safe_. When we're don't feel connected to our true selves, we feel extremely _anxious and uncentered_. 
 	- ❤️ The realm of the heart and personal experience.
-	- 👀 Connection to Ourself is the realm of pushing further into the experience of sensing and being. 
+	- 👀 Connection to Ourself is about finding the center of our own internal world via the experience of sensing and being. 
 	- 🔮 Its tools are story-telling, mindfulness, intuition, beliefs, and values. 
 	- 🐀 In Venkatesh's model, this is the Home, also known as Ratspace because no matter how well you know your own home, rats probably know it better. 
 	- 🎈 We will also represent it with the color Red, one of the 3 primary colors. 
 
-3. **Yellow Dimension - Connection to Community:** Connection to other people in the world like us. When we feel in connection with the public social realm, we feel like we are _useful and seen_. When we're don't feel connected to our community, we feel _alienated and invisible_. 
+3. **Yellow Realm - Connection to Community - The Grid:** Connection to other people in the world like us. When we feel in connection with the public social realm, we feel like we are _useful and seen_. When we're don't feel connected to our community, we feel _alienated and invisible_. 
 	- ✋ The realm of the hands and useful pragmatism.
-	- 💬 Connection to Community is the realm of pushing further into the the messiness of communication, feedback loops, and the experience of doing. 
+	- 💬 Connection to Community is about noticing the interplay dynamics between everything, working within the messiness of communication, feedback loops, and the multiple-order effects. It's about doing things and then seeing what happens.  
 	- 🤝 Its tools are relationships, social contracts, cultural norms, and expectations.
 	- 🐦 In Venkatesh's model, this is the Public, also known as Crowspace because the crow can fly from your windowsill to any other windowsill in your community disregarding all the social friction we must deal with.	
 	- ⭐️ We will also represent it with the color Yellow, one of the 3 primary colors.
 
-These 3 ways of making contact with reality appear in so many different places, and are more a complicated network of connections than a singular connection, hence why I've included a bunch of different metaphors in each bucket. They function in the same way that the directions on a compass function on a map -- they point towards a certain dimension of our experience of reality that can be referenced from wherever we are within that experience. You'll probably discover many other facets of these 3 dimensions, feel free to associate your own preferred metaphors for them. 
+These 3 ways of making contact with reality appear in many different places within our culture and past cultural traditions. I've included a bunch of different metaphors in each bucket, since they appear slightly differently in many different contexts. If it helps, you can think of them in the same way that you think about the directions of the compass -- they point towards a certain realm of our experience of reality that can be referenced from wherever we are within that experience. They aren't places you go so much as maps that live on top of reality wherever you are in it. You'll probably discover many other facets of these 3 realms as you get to know them, feel free to associate your own preferred metaphors for them. One that I've enjoyed thinking about recently is the game of Rock Paper Scissors. I think Yellow is Rock, Red is Paper, and Blue is Scissors, but open to other interpretations.
 
-You can think of each of the following modes as a way of being that comes about based on how many of these three dimensions we currently feel in meaningful contact with. 
+Our relationship to the 3 realms is what determines which "mode" we're in.
  
 ## 8 hydra heads for 8 modes 
 
@@ -56,7 +58,7 @@ We go in and out of contact with the three dimensions of the World, Ourselves, a
 7. Orange (Relating Mode)
 8. Gold (Flow Mode)
 
-### Which mode are you in right now?
+### Quick test. Which mode are you in right now?
 
 You can quickly figure out which mode you're in right now by asking yourself these three Y/N questions.
 
